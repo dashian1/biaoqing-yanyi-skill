@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI微表情表演"
+  short_description: "拆解真人表演微表情情绪节奏台词口型呼吸眼神和身体动作"
+  default_prompt: "Use $biaoqing-yanyi to write a time-coded acting prompt."
